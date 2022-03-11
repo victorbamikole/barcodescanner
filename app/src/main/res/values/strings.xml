@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DriverAppFunc</string>
+    <string name="turn_on_off_camera_led_flashlight_android">Turn On/Off Camera LED/ Flashlight Android</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="camera">Camera</string>
+    <string name="scanned">scanned</string>
+</resources>
